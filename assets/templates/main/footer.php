@@ -1,7 +1,8 @@
+    </div>
 
-<div id = "footer">
-
+    <div id = "footer">
+        <p>Test page!</p>
+    </div>
 </div>
-
 </body>
 </html>
