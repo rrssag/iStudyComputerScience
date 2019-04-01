@@ -1,5 +1,5 @@
 <?php
-    require_once  'vendor/autoload.php';
+    //require_once  'vendor/autoload.php';
 ?>
 <!doctype html>
 <html lang="en">
@@ -13,6 +13,9 @@
 
 </head>
 <body>
-<div id = "header">
-    <h1 class = "greeting">Hello, World!</h1>
-</div>
+<div id = "main">
+    <div id = "header">
+        <h1 class = "greeting">Hello, World!</h1>
+    </div>
+
+    <div id = "body">
