@@ -1,11 +1,13 @@
 {
+
+  "require": {
+    "twig/twig": "1.*"
+  },
+
   "autoload": {
     "psr-4": {
       "Patterns\\": "patterns",
       "Helpers\\": "Helpers"
     }
-  },
-  "require": {
-    "twig/twig": "1.*"
   }
 }
