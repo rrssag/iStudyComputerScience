@@ -1,5 +1,5 @@
 <?php
-namespace Patterns\simpleFactory;
+namespace Patterns\SimpleFactory;
 
 interface ICar
 {
