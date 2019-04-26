@@ -1,1 +1,2 @@
 # iStudyComputerScience
+Все только начинается. 
