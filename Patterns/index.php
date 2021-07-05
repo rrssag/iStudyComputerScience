@@ -14,7 +14,7 @@
         <div class = 'block_50'>
             <ul>
                 <li><a href="Singleton.php">Singleton</a></li>
-                <li><a href="simpleFactory/CarFactory.php">SimpleFactory</a></li>
+                <li><a href="SimpleFactory/CarFactory.php">SimpleFactory</a></li>
                 <li><a href=""></a></li>
             </ul>
         </div>

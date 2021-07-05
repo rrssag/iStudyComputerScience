@@ -8,7 +8,7 @@
         <div class="block_25"><p></p></div>
         <div class = "block_50">
             <ul>
-                <li><a href="patterns/">Паттерны</a></li>
+                <li><a href="Patterns/">Паттерны</a></li>
                 <li>In progress</li>
             </ul>
         </div>

@@ -6,7 +6,7 @@
  * Time: 15:23
  */
 
-namespace Patterns\simpleFactory;
+namespace Patterns\SimpleFactory;
 
 
 abstract class Car implements Icar

@@ -6,7 +6,9 @@
  * Time: 15:28
  */
 
-namespace Patterns\simpleFactory;
+namespace Patterns\SimpleFactory;
+use Patterns\SimpleFactory\Pickup;
+use Patterns\SimpleFactory\Suv;
 
 ini_set('error_reporting', E_ALL);
 ini_set('display_errors', 1);
